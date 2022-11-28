@@ -2,9 +2,13 @@
 
 This is made with help of a video tutorial available on youtube 
 
-Webpage Link:
+Webpage Link: https://killertian.github.io/Spin-wheel/
 
 Preview
+
+![image](https://user-images.githubusercontent.com/77867638/204342365-a3b88d8a-1b54-4838-85ff-ade48042f07f.png)
+![image](https://user-images.githubusercontent.com/77867638/204342401-f83a1bde-13e4-499b-b769-bf75f44622b4.png)
+
 
 # License
 
